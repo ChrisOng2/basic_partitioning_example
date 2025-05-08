@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/graphpartitioning_example.dir/main.cpp.o CMakeFiles/graphpartitioning_example.dir/MatrixGen.cpp.o CMakeFiles/graphpartitioning_example.dir/COOtoCSR.cpp.o CMakeFiles/graphpartitioning_example.dir/METISAdjncyFind.cpp.o -o graphpartitioning_example  -lmetis
